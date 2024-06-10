@@ -9,7 +9,7 @@ This work is being submitted to the TKDE, and it will be gradually improved base
 |PolitiFact|[https://github.com/KaiDMML/FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet)|
 
 You can customize the dataset to your needs. For this work, we processed this dataset and provided the dataset file, you can download it from 
-this link: xxxxxxxxx
+this link:：https://pan.baidu.com/s/1ujpy-lFPKFN2snpGz58Tbw      **code**：**mvtm**
 
 After downloading the dataset, please ensure to place it in the appropriate folder as demonstrated below:
 ```

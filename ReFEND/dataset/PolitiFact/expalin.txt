@@ -1,0 +1,1 @@
+download  PolitiFact dataset in this folder. raw.dict file or processed pickle file 

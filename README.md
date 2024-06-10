@@ -1,13 +1,12 @@
 # ReFEND
 This work is being submitted to the WWW conference (2024).
-### Dataset
+### Raw_Dataset
 
 |Dataset|Resource|
 |--------|--------|
-|Weibo16|[https://github.com/RMSnow/WWW2021](https://github.com/RMSnow/WWW2021)|
-|Weibo20|[https://github.com/RMSnow/WWW2021](https://github.com/RMSnow/WWW2021)|
+|Weibo20|[https://github.com/fip-lab/STANKER/tree/main/raw_datasets](https://github.com/fip-lab/STANKER/tree/main/raw_datasets)|
 |Weibo-comp|[https://www.datafountain.cn/competitions/422](https://www.datafountain.cn/competitions/422)|
-|Politifact|[https://github.com/KaiDMML/FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet)|
+|PolitiFact|[https://github.com/KaiDMML/FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet)|
 
 After downloading the dataset, place it in the corresponding folder, as shown below.
 - weibo16
